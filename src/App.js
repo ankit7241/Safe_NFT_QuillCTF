@@ -155,8 +155,6 @@ const App = () => {
     }
   }
 
-
-  
   
   return (
     <div>
